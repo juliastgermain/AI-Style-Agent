@@ -1,4 +1,4 @@
-# AI Style Agent 🎨👔
+# AI Style Agent 
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)
