@@ -10,7 +10,7 @@
 **Target Completion:** March 9, 2025  
 **Live Demo:** Coming soon!
 
-## 🎯 Project Overview
+## Project Overview
 
 Ever spent too long deciding what to wear? This AI agent solves that by combining:
 - **Computer Vision** (CLIP) to analyze your wardrobe
@@ -18,7 +18,7 @@ Ever spent too long deciding what to wear? This AI agent solves that by combinin
 - **Calendar Context** to match outfits to your schedule
 - **LLM Reasoning** to provide styling advice
 
-## ✨ Features (Planned)
+## Features (Planned)
 
 - [ ] **Smart Wardrobe Analysis**: Upload photos of your clothes, AI categorizes them
 - [ ] **Weather-Aware Recommendations**: Integrates real-time weather data
@@ -27,7 +27,7 @@ Ever spent too long deciding what to wear? This AI agent solves that by combinin
 - [ ] **Outfit Rating**: Scores outfits on formality, color coordination, seasonality
 - [ ] **Interactive Web Interface**: Easy-to-use Streamlit app
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Computer Vision**: CLIP (Hugging Face Transformers)
@@ -36,9 +36,9 @@ Ever spent too long deciding what to wear? This AI agent solves that by combinin
 - **ML Framework**: PyTorch
 - **Deployment**: Hugging Face Spaces (planned)
 
-## 📊 Project Roadmap
+## Project Roadmap
 
-### Week 1: Foundation ✅ (Current)
+### Week 1: Foundation  (Current)
 - [x] Project setup and structure
 - [x] README and documentation
 - [ ] Environment configuration
@@ -119,7 +119,7 @@ AI-Style-Agent/
 └── README.md                       # This file
 ```
 
-## 🎨 How It Works
+## How It Works
 
 1. **User uploads photos** of clothing items
 2. **CLIP model analyzes** each item (type, color, formality, season)
@@ -128,7 +128,7 @@ AI-Style-Agent/
 5. **Recommendation engine** selects optimal outfit
 6. **LLM generates** styling tips and explanations
 
-## 📧 Contact
+## Contact
 
 **Julia St.Germain**  
 📧 juliastg3rmain@gmail.com  
